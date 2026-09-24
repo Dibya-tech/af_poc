@@ -1,0 +1,11 @@
+product_id,product_name,warehouse,stock_qty,reorder_level,last_updated
+P001,Wireless Mouse,WH-NORTH,450,100,2024-03-01
+P002,USB-C Cable,WH-NORTH,980,200,2024-03-01
+P003,Mechanical Keyboard,WH-SOUTH,210,50,2024-03-01
+P004,Laptop Stand,WH-EAST,130,30,2024-03-01
+P005,Noise Cancelling Headphones,WH-WEST,175,40,2024-03-01
+P001,Wireless Mouse,WH-NORTH,450,100,2024-03-01
+P003,Mechanical Keyboard,WH-SOUTH,210,50,2024-03-01
+P006,Monitor Stand,WH-NORTH,320,60,2024-03-01
+P007,HDMI Cable,WH-SOUTH,750,150,2024-03-01
+P008,Webcam,WH-EAST,95,25,2024-03-01

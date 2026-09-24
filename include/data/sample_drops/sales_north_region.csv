@@ -1,0 +1,11 @@
+order_id,customer_id,product_id,quantity,unit_price,order_date,status
+ORD101,C001,P001,3,29.99,2024-03-01,completed
+ORD102,C003,P003,2,49.99,2024-03-02,completed
+ORD103,C005,P005,1,199.99,2024-03-03,completed
+ORD104,C007,P002,4,15.50,2024-03-04,completed
+ORD105,C009,P004,2,75.00,2024-03-05,completed
+ORD106,C002,P001,1,29.99,2024-03-06,completed
+ORD107,C004,P003,3,49.99,2024-03-07,completed
+ORD108,C006,P005,2,199.99,2024-03-08,completed
+ORD109,C008,P002,5,15.50,2024-03-09,completed
+ORD110,C010,P004,1,75.00,2024-03-10,completed

@@ -1,0 +1,9 @@
+return_id,original_order_id,customer_id,product_id,return_date,reason,refund_amount,status
+RET001,ORD005,C004,P001,2024-02-05,defective,149.95,approved
+RET002,ORD014,C009,P001,2024-02-10,wrong_item,89.97,approved
+RET003,ORD022,C001,P002,2024-02-12,not_as_described,77.50,pending
+RET004,ORD003,C001,P002,2024-01-25,changed_mind,46.50,rejected
+RET005,ORD008,C003,P003,2024-02-01,defective,199.96,approved
+RET006,ORD012,C008,P002,2024-02-08,damaged_in_shipping,93.00,approved
+RET007,ORD025,C004,P004,2024-02-15,wrong_item,75.00,pending
+RET008,ORD030,C003,P003,2024-02-20,defective,99.98,approved

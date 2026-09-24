@@ -1,0 +1,9 @@
+customer_id,name,email,city,signup_date,tier,referral_code
+C011,Rahul Verma,rahul.v@email.com,Surat,2024-03-01,silver,REF001
+C012,Pooja Agarwal,,Nagpur,2024-03-02,gold,
+C013,Amit Saxena,amit.s@email.com,,2024-03-03,bronze,REF003
+C014,Kavita Rao,kavita.r@email.com,Bhopal,2024-03-04,,REF004
+C015,,neha@email.com,Indore,2024-03-05,silver,
+C016,Suresh Kumar,suresh.k@email.com,Vadodara,2024-03-06,gold,REF006
+C017,Lakshmi Nair,lakshmi.n@email.com,Kochi,2024-03-07,bronze,REF007
+C018,Deepak Sharma,deepak.s@email.com,Chandigarh,2024-03-08,silver,

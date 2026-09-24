@@ -1,0 +1,11 @@
+customer_id,name,email,city,signup_date,tier
+C001,Aarav Sharma,aarav.sharma@email.com,Mumbai,2023-06-15,gold
+C002,Priya Patel,priya.patel@email.com,Delhi,2023-07-20,silver
+C003,Rohan Gupta,rohan.gupta@email.com,Bangalore,2023-08-10,gold
+C004,Sneha Reddy,sneha.reddy@email.com,Hyderabad,2023-09-05,bronze
+C005,Vikram Singh,vikram.singh@email.com,Pune,2023-10-12,silver
+C006,Ananya Joshi,ananya.joshi@email.com,Chennai,2023-11-01,gold
+C007,Karthik Nair,karthik.nair@email.com,Kolkata,2023-11-18,bronze
+C008,Meera Iyer,meera.iyer@email.com,Jaipur,2023-12-03,silver
+C009,Arjun Das,arjun.das@email.com,Ahmedabad,2024-01-10,bronze
+C010,Divya Menon,divya.menon@email.com,Lucknow,2024-01-20,gold

@@ -1,0 +1,6 @@
+product_id,name,category,cost_price,list_price,stock_qty
+P001,Wireless Mouse,electronics,12.00,29.99,500
+P002,USB-C Cable,accessories,5.00,15.50,1200
+P003,Mechanical Keyboard,electronics,22.00,49.99,300
+P004,Laptop Stand,furniture,30.00,75.00,150
+P005,Noise Cancelling Headphones,electronics,80.00,199.99,200
