@@ -1,0 +1,25 @@
+==================================================
+  SALES ANALYTICS REPORT
+  Generated: 2026-09-25 06:57:14
+==================================================
+
+  Total orders:     21
+  Total revenue:    2483.27
+  Total margin:     1484.27
+  Avg order value:  118.25
+  Unique customers: 10
+  Unique products:  5
+
+  Date range: 2024-01-15 to 2024-02-12
+
+  Top 3 customers by revenue:
+    - Karthik Nair: 469.92
+    - Meera Iyer: 399.98
+    - Ananya Joshi: 321.97
+
+  Top 3 products by revenue:
+    - Noise Cancelling Headphones: 1199.94
+    - Laptop Stand: 525.00
+    - Mechanical Keyboard: 349.93
+
+==================================================
